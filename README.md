@@ -1,4 +1,4 @@
-# 📝 Todo List App
+# 📝 ToDo List App
 
 A modern, responsive todo list application built with vanilla HTML, CSS, and JavaScript. This project demonstrates clean code architecture, software engineering best practices, and modern web development techniques.
 
